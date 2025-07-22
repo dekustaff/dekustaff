@@ -1,3 +1,9 @@
+</div>
+
+<img src="https://media2.dev.to/dynamic/image/width=1000,height=220,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6kvp1k7n7a321kxn9z74.png">
+
+</img>
+
 # 💫 About Me:
 👋 Hi, I'm Deku — a 17-year-old tech enthusiast with a passion for programming and innovation.<br>🎓 I recently completed high school along with a vocational program in Information Technology, where I built a solid foundation in computer science and software development.<br>💻 I’m deeply interested in new technologies and love exploring different programming languages — coding is more than just a skill for me; it’s a passion.<br>🚀 Currently, I’m doing an internship in programming, gaining real-world experience and sharpening my skills by working on live projects.<br>📚 I'm always learning, building, and looking for ways to grow as a developer.<br><br>Feel free to explore my repositories and connect with me!
 
@@ -18,7 +24,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=dekustaff&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dekustaff&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-</div>
+
 
 <div align=center>
 
